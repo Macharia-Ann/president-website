@@ -1,0 +1,978 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+.kenyalogo{
+  width: 90px;
+}
+
+.social-icons img{
+  width: 25px;
+  margin: 15px 20px;
+
+}
+.speech-button{
+  background-color: #cddc39;
+  width: 200px;
+  height: 36px;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  font-size: 16px;
+margin-top: 15px;
+}
+#header{
+  background-color: white;
+  padding: 20px 20px;
+}
+.navbar{
+  padding: 20px 20px;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+nav ul li{
+  display: inline-block;
+margin: 10px 10px; 
+}
+nav ul li a{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+
+}
+.dropdown{
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content{
+  display: none;
+position: absolute;
+background-color: black;
+min-width: 400px;
+}
+.dropdown-content a{
+  color: white;
+  display: block;
+  font-size: 20px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.presidentoffice{
+  display: flex;
+  background-color: #f1f1f1;
+  margin-left: 70px;
+  padding-top: 40px;
+}
+.officephoto{
+  width: 500px;
+  border-radius: 15px;
+  margin-right: 40px;
+  margin-bottom: 14px;
+}
+.officepar1{
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+.officepar2{
+  font-size: 18px;
+  font-weight: bold;
+  width: 500px;
+}
+.officeheading1{
+  font-size: 40px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.officeheading2{
+  font-size: 20px;
+  margin-bottom: 40px;
+  width: 600px;
+  line-height: 26px;
+}
+.defence{
+  margin-left: 170px;
+}
+.officepar3{
+  font-size: 17px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+}
+.images{
+  background-color: #f1f1f1;
+  margin-top: 70px;
+  display: flex;
+  margin-bottom: 150px;
+
+}
+.image1{
+  margin-left: 190px;
+  padding-top: 70px;
+  margin-right: 15px;
+  margin-bottom: 19px;
+
+}
+.image2{
+  padding-top: 70px;
+  margin-bottom: 19px;
+
+
+}
+.feliximg{
+width: 450px;
+border-radius: 15px;
+}
+.katooimg{
+  width: 430px;
+  border-radius: 15px;
+
+}
+.felix-par{
+  margin-top: 15px;
+  font-size: 17px;
+  margin-left: 20px;
+ 
+}
+.deputypresident{
+  display: flex;
+  background-color: #f1f1f1;
+  padding-top: 70px;
+}
+.deputypimg{
+  width: 500px;
+  margin-left: 70px;
+  margin-right: 40px;
+  border-radius: 15px;
+}
+.deputypar1{
+  font-size: 17px;
+  margin-top: 12px;
+  margin-left: 150px;
+}
+.deputyheading2{
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 70px;
+  text-align: center;
+}
+.deputypar3{
+  font-size: 17px;
+  margin-bottom: 35px;
+  margin-top: 15px;
+}
+.primecabinet{
+  display: flex;
+  background-color: #f1f1f1;
+}
+.primecabinetright{
+  padding-top: 70px;
+}
+.primecabinetleft{
+  padding-top: 70px;
+  margin-bottom: 150px;
+}
+.musaliaimg{
+  width: 500px;
+  border-radius: 15px;
+  margin-left: 70px;
+  margin-right: 40px;
+  margin-bottom: 16px;
+}
+.primepar1{
+  margin-left: 170px;
+  margin-bottom: 12px;
+  font-size: 17px;
+}
+.primeheading2{
+  font-size: 40px;
+  margin-bottom: 70px;
+  text-align: center;
+  margin-top: 20px;
+}
+.primeheading3{
+  font-size: 17px;
+  margin-bottom: 35px;
+}
+
+.ministries{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #f1f1f1;
+  justify-content: space-between;
+  margin-right: auto;
+  margin-bottom: 150px;
+}
+.ministriesleft{
+margin-left: 70px;
+
+}
+.ministriesleft a{
+  text-decoration: none;
+
+}
+
+.ministriesmiddle a{
+  text-decoration: none;
+
+}
+
+.ministriesright a{
+  text-decoration: none;
+
+
+}
+.ministryimages{
+  width: 400px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  border-radius: 15px;
+  vertical-align: top;
+vertical-align: top;
+}
+.ministryimages img{
+max-width: 100%;
+}
+.ministrypar{
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: black;
+}
+.div1,.div2,.div3,.div3,.div4,.div5,.div6,.div7,.div8,.div9,.div10,.div11,.div12,.div13,.div14,.div15,.div16,.div17,.div18,.div19,.div20,.div21 .div22{
+}
+
+.dropdown2{
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content2{
+  display: none;
+position: absolute;
+background-color: black;
+}
+.dropdown-content2 a{
+  color: white;
+  display: block;
+  font-size: 20px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 300px;
+}
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+.background-par{
+  width: 600px;
+  color: white;
+font-size: 40px;
+padding-left: 500px;
+padding-top: 100px;
+
+}
+.background-par2{
+  padding-left: 700px;
+  color: white;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: bold;
+
+}
+.background{
+  background-image: url('./images/statehouse.jpg');
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.middlea{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.rutoimg{
+  width: 600px;
+  margin-bottom: 15px;
+  border-radius: 15px;
+
+
+}
+.rutoimg-heading{
+  width: 600px;
+  color: black;
+  font-size: 25px;
+  margin-top: 30px;
+}
+.rutoimg-heading a{
+  color: black;
+  text-decoration: none;
+
+}
+.rutoimg-par{
+  width: 600px;
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.middleb{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.inspectorgeneral{
+width: 600px;
+border-radius: 15px;
+
+}
+.inspectorgeneral-heading{
+width: 600px;
+font-size: 25px;
+margin-top: 30px;
+
+}
+.inspectorgeneral-heading a{
+  color: black;
+  text-decoration: none;
+}
+.inspectorgeneral-par{
+  width: 600px;
+  font-size: 20px;
+  margin-top: 40px;
+}
+
+.middle2{
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+  display: flex;
+
+}
+.loadmore-button{
+  width: 200px;
+  height: 36px;
+  color: black;
+  font-size: 16px;
+  background-color: #cddc39;
+  margin-left: 70px;
+  margin-top: 50px;
+  border: none;
+  border-radius: 15px;
+  font-weight: bold;
+}
+.cabinetmeeting{
+  width: 300px;
+  border-radius: 15px;
+display: inline-block;
+margin-right: 20px;
+
+}
+.cabinetmeeting-heading{
+  width: 350px;
+  font-size: 18px;
+  margin-bottom: 14px;
+  display: inline-block;
+  vertical-align: top;
+
+}
+.cabinetmeeting-heading a{
+text-decoration: none;
+color: black;
+
+}
+.cabinetmeeting-par{
+  font-size: 17px;
+  font-weight: normal;
+  margin-top: 20px;
+  width: 300px;
+
+}
+
+
+
+.middle3{
+  margin-left: 15px;
+  margin-bottom: 14px;
+  display: flex;
+
+}
+.chinasummit{
+  width: 300px;
+  display: inline-block;
+  margin-right: 20px;
+  border-radius: 15px;
+
+}
+.chinasummit-heading{
+  width: 350px;
+  font-size: 18px;
+  display: inline-block;
+vertical-align: top;
+}
+.chinasummit-heading a{
+text-decoration: none;
+color: black;
+
+}
+.chinasummit-par{
+  font-size: 17px;
+  font-weight: normal;
+  margin-top: 20px;
+  width: 300px;
+}
+.middle4{
+  margin-left: 15px;
+  display: flex;
+  margin-top: 14px;
+}
+.chinasummit2{
+  width: 300px;
+  margin-right: 20px;
+  display: inline-block;
+  border-radius: 15px;
+
+}
+.chinasummit2-heading{
+  width: 300px;
+  font-size: 18px;
+  display: inline-block;
+  vertical-align: top;
+}
+.chinasummit2-heading a{
+  color: black;
+  text-decoration: none;
+}
+.chinasummit2-par{
+  font-size: 17px;
+  margin-top: 14px;
+  font-weight: normal;
+  width: 300px;
+}
+.middle5{
+  margin-left: 15px;
+  display: flex;
+  margin-top: 14px;
+
+}
+.growth{
+  width: 300px;
+  margin-right: 20px;
+  display: inline-block;
+  margin-top: 14px;
+  border-radius: 15px;
+
+}
+.growth-heading{
+  width: 300px;
+  font-size: 18px;
+  display: inline-block;
+vertical-align: top;
+}
+.growth-heading a{
+  color: black;
+  text-decoration: none;
+}
+.growth-par{
+  font-size: 17px;
+  margin-top: 20px;
+  font-weight: normal;
+  width: 300px;
+}
+.middle6{
+  margin-left: 15px;
+  margin-top: 14px;
+  display: flex;
+
+}
+.nys{
+  width: 300px;
+  margin-right: 20px;
+  display: inline-block;
+  border-radius: 15px;
+
+}
+.nys-heading{
+  width: 350px;
+  font-size: 18px;
+  display: inline-block;
+vertical-align: top;
+}
+.nys-heading a{
+  color: black;
+  text-decoration: none;
+}
+.nys-par{
+  font-size: 17px;
+  margin-top: 20px;
+  font-weight: normal;
+  width: 300px;
+}
+.middle7{
+  margin-left: 15px;
+  margin-top: 14px;
+  display: flex;
+
+}
+.nationalgovernment{
+  width: 300px;
+  margin-right: 20px;
+  display: inline-block;
+  border-radius: 15px;
+}
+.nationalgovernment-heading{
+  width: 350px;
+  font-size: 18px;
+  display: inline-block;
+vertical-align: top;
+}
+.nationalgovernment-heading a{
+  color: black;
+  text-decoration: none;
+}
+.nationalgovernment-par{
+  font-size: 17px;
+  margin-top: 20px;
+  font-weight: normal;
+  width: 300px;
+}
+.flex-div{
+ display: flex;
+}
+.bottompart{
+  margin-top: 30px;
+  background-color: #f2f2f2;
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+.rutophoto{
+  width: 600px;
+  display: inline-block;
+  border-radius: 15px;  
+  margin-left: 70px;
+
+}
+.rutophoto-heading{
+  width: 600px;
+  font-size: 40px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 70px;
+  margin-top: 50px;
+
+}
+.rutophoto-heading a{
+  text-decoration: none;
+  color: black;
+}
+.rutophoto-par{
+  width: 600px;
+  font-size: 20px;
+  font-weight: normal;
+  margin-top: 50px;
+  line-height: 22px;
+
+}
+.rutophotop{
+  font-weight: normal;
+  width: 600px;
+  font-size: 20px;
+  margin-top: 20px;
+
+}
+.bottompart2{
+  background-image: url('./images/stronger.jpeg');
+  background-position: center;
+  background-size: cover;
+ max-width: 100%;
+height: 500px; 
+margin-left: 70px;
+  margin-right: 70px;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 70px;
+
+ }
+
+  .famine-heading{
+    width: 750px;
+    text-align: bottom;
+    font-size: 35px;
+padding-top: 400px;
+padding-left: 70px;
+font-weight: bold;
+  }
+  .famine-heading a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;   
+
+  }
+  .footer{
+    background-color: #cddc39;
+    display: flex;
+padding: 50px 20px;  }
+.part1{
+  padding-left: 30px;
+}
+.coatofarms-heading{
+  font-size: 35px;
+  font-weight: bold;
+  width: 400px;
+  text-transform: uppercase;
+
+
+}
+.coatofarms-par{
+  margin-top: 30px;
+  font-weight: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.part2{
+  margin-left: 150px;
+}
+.Address-heading{
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-bottom: 30px;
+  
+}
+.addresspar{
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.nai{
+  font-size: 20px;
+  margin-top: 15px;
+}
+.part3{
+  margin-left: 150px;
+}
+.quickpar{
+  font-size: 20px;
+  margin-bottom: 30px;
+  font-weight: normal;
+
+}
+.quickpar a{
+  text-decoration: none;
+  color: black;
+}
+.quicklinksheading{
+  margin-bottom: 30px;
+}
+  .part4{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 30px;
+  }
+  .firstlady{
+    margin-left: 70px;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .firstladyphoto{
+    width: 500px;
+    margin-right: 30px;
+border-radius: 15px;
+margin-bottom: 20px;
+  }
+  .firstlady-heading{
+    font-size: 40px;
+  }
+  .firstlady-par{
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 40px;
+    width: 700px;
+  }
+  .firstladyleft-par{
+    margin-bottom: 17px;
+    font-size: 18px;
+  }
+  .news{
+    background-image: url('./images/newsimg.jpeg');
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    height: 500px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 40px;
+    border-radius: 15px;
+  }
+  .news-heading{
+    padding-top: 400px;
+font-size: 28px;
+width: 600px;
+margin-left: 70px;
+font-weight: bold;
+  }
+  .news-heading a{
+    text-decoration: none;
+    color: white;
+}
+.newsdiv{
+  display: flex;
+
+}
+.newsleft{
+margin-left: 70px;
+}
+.chinasummitimg{
+  width: 400px;
+  border-radius: 15px;
+}
+.chinasummitnewsh{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.chinasummitnewsh a{
+  color: black;
+  text-decoration: none;
+}
+.chinasummitnewsp{
+  width: 400px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+
+.nysimg{
+  width: 400px;
+  border-radius: 15px;
+  margin-top: 70px;
+}
+.nysh{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.nysh a{
+  color: black;
+  text-decoration: none;
+}
+.nysp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.investingimg{
+  width: 400px;
+  border-radius: 15px;
+}
+.investingh{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.investingh a{
+  color: black;
+  text-decoration: none;
+}
+.investingp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.presidentasksimg{
+  width: 400px;
+  border-radius: 15px;
+}
+.presidentasksh{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.presidentasksh a{
+  color: black;
+  text-decoration: none;
+}
+.presidentasksp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-top: 30px;
+}
+.newsmiddle{
+margin-right: 20px;
+}
+.chinasummit2img{
+  width: 350px;
+  border-radius: 15px;
+}
+.chinasummit2h{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.chinasummit2h a{
+  color: black;
+  text-decoration: none;
+}
+.chinasummit2p{
+  width: 400px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.adminimg{
+  width: 450px;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+.adminh{
+width: 400px;
+font-size: 20px;
+margin-top: 20px;
+margin-bottom: 40px;
+}
+.adminh a{
+  color: black;
+  text-decoration: none;
+}
+.adminp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.violenceimg{
+  width: 350px;
+  border-radius: 15px; 
+  margin-top: 20px;
+}
+.violenceh{
+  width: 400px;
+  font-size: 20px;
+  margin-top: 16px;
+  margin-bottom: 40px;
+}
+.violenceh a{
+  color: black;
+  text-decoration: none; 
+}
+.violencep{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+
+.rutosignsimg{
+  width: 350px;
+  border-radius: 15px; 
+  margin-top: 3px;
+}
+.rutosignsh{
+  width: 400px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.rutosignsh a{
+  color: black;
+  text-decoration: none; 
+}
+.rutosignsp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.cabinetchangesimg{
+  width: 400px;
+  border-radius: 15px; 
+  margin-top: 90px;
+}
+.cabinetchangesh{
+  width: 400px;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+.cabinetchangesh a{
+  color: black;
+  text-decoration: none; 
+}
+.cabinetchangesp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+
+.rutopledgesimg{
+  width: 380px;
+  border-radius: 15px; 
+  margin-top: 70px;
+}
+.rutopledgesh{
+  width: 400px;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.rutopledgesh a{
+  color: black;
+  text-decoration: none; 
+}
+.rutopledgesp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.chinasummitnews{
+  width: 400px;
+  border-radius: 15px; 
+}
+.chinasummitnewsh{
+  width: 400px;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 40px;
+}
+.chinasummitnewsh a{
+  color: black;
+  text-decoration: none; 
+}
+.chinasummitnewsp{
+  width: 450px;
+  font-size: 17px;
+  line-height: 23px;
+  margin-bottom: 50px;
+}
+.newsright{
+  margin-right: 50px;
+}
+.adminh{
+  width: 400px;
+}
